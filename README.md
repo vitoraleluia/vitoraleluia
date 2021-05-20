@@ -10,6 +10,6 @@
 
 ## I'm a Computer Engineering student.
 
-- 👨🏼‍🎓 Currently I'm a student in IPCB - Instituto Politécnico de Castelo Branco
+- 👨🏼‍🎓 Currently I'm a student in IPCB - Instituto Politécnico de Castelo Branco.
 - 📖 I’m currently learning **Web development** (HTML and CSS).
 - 💭 I’m looking to collaborate with other students.
