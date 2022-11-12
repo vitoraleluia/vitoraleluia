@@ -8,8 +8,8 @@
 
 ---
 
-## I'm a Computer Engineering student.
+## I'm a Java Software Developer.
 
-- 👨🏼‍🎓 Currently I'm a student in IPCB - Instituto Politécnico de Castelo Branco.
-- 📖 I’m currently learning **Web development** (HTML and CSS).
-- 💭 I’m looking to collaborate with other students.
+- 👨🏼‍🎓 Currently I'm a Software Engineer at Capgemini Engineering.
+- 📖 I’m currently about **distributed systems and java entrerprise**.
+- 💭 I’m looking to collaborate with other students/developers/engineers.
