@@ -10,6 +10,6 @@
 
 ## I'm a Java Software Developer.
 
-- 👨🏼‍🎓 Currently I'm a Software Engineer at Capgemini Engineering.
+- 👨🏼‍🎓 Currently I'm a Junior Software Engineer at Capgemini Engineering.
 - 📖 I’m currently about **distributed systems and java entrerprise**.
-- 💭 I’m looking to collaborate with other students/developers/engineers.
+- 💭 I’m looking to collaborate and exchange ideas with other developers.
