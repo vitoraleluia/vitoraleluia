@@ -3,7 +3,7 @@
 
 ### Hello, I'm Vitor 👋🏼
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitoraleluia)
+[LinkedIn](https://www.linkedin.com/in/vitoraleluia) | [Email](mailto:vitoraleluia@outlook.pt)
 </div>
 
 ---
@@ -11,5 +11,5 @@
 ## I'm a Java Software Developer.
 
 - 👨🏼‍🎓 Currently I'm a Junior Software Engineer at Capgemini Engineering.
-- 📖 I’m currently about **distributed systems and java entrerprise**.
+- 📖 I’m currently leaning about **software design, software patterns and Spring Boot**.
 - 💭 I’m looking to collaborate and exchange ideas with other developers.
